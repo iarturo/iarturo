@@ -2,7 +2,7 @@
 
 📍 **Mexico City** | 🛠️ **Web3 Builder & Data Analyst**
 
-I build payment infrastructure on Base and data systems for B2B clients. Bilingual EN/ES. Background in financial operations (Aeroméxico) before going full-time on Web3 and automation.
+I build payment infrastructure on Base and data systems for B2B clients. Bilingual EN/ES. Background in financial operations before going full-time on Web3 and automation.
 
 ### Tech I work with
 

@@ -31,4 +31,3 @@ Remote or hybrid roles in **Developer Support**, **Solutions Engineering**, **Da
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-ortega-dev/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/iarturo)
-📧 arturo66@gmail.com
